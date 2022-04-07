@@ -1,5 +1,5 @@
 """
-Main program for Json File Handler
+Main program for JSON File Handler
 """
 import JsonFileHandler
 
