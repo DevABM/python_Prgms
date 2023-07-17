@@ -12,4 +12,4 @@ for number in range(lower,upper+1):
  #           print(number)
             f.write(" %d\r\n" % (number+1))
 f.close()
-#print("Check the file primenumber.txt")
+print("Check the file primenumber.txt")
